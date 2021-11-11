@@ -10,11 +10,11 @@ It isn't the best platform game and is very far from Super Mario Bros but it dem
 
 You can see it running in my youtube channel: https://www.youtube.com/watch?v=yV6BUFb0Vec
 
-This is how my game looks like:
+## This is how my game looks like:
 
 ![Stage 1](https://github.com/danielaauriema/danyz-game/blob/main/sample/GameStage1.png?raw=true)
 
-This is the tile map editor:
+## This is the tile map editor:
 
 ![Tile Map Editor](https://github.com/danielaauriema/danyz-game/blob/main/sample/TileMapEditor.png?raw=true)
 
